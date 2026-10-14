@@ -1,0 +1,12 @@
+Task finished
+error in module
+error in module
+Warning: low memory
+User logged in
+Request completed
+Server started successfully
+Request completed
+Error: connection failed
+User logged in
+Request completed
+Warning: low memory

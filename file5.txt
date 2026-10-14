@@ -1,0 +1,13 @@
+Warning: low memory
+Request completed
+ERROR while saving data
+Task finished
+User logged in
+ERROR while saving data
+User logged in
+Request completed
+ERROR while saving data
+error in module
+Request completed
+Task finished
+Server started successfully

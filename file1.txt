@@ -1,0 +1,5 @@
+Task finished
+Server started successfully
+Task finished
+Task finished
+Error: connection failed
